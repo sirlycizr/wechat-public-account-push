@@ -145,9 +145,9 @@ export const USER_CONFIG = {
   CALLBACK_USERS: [
     {
       // 一般都填自己
-      name: "sirlycizr",
+      name: "",
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "oI36d5zGn0SD_CnKc6ANnlALpPJU",
+      id: "",
     },
     // 你可以不断按格式往下增加
     // ...
